@@ -9,7 +9,9 @@ export default {
     fetchData(path) {
       this.api = null;
       this.loading = true;
-      fetch(`http://localhost:3000/${path}`)
+      fetch(
+        `https://my-json-server.typicode.com/nataliafonseca/techno-cursos/${path}`,
+      )
         .then(response => response.json())
         .then(json => {
           // o setTimeout é utilizado apenas para simular o tempo
