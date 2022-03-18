@@ -1,24 +1,10 @@
-# techno-school
+# Techno Cursos
 
-## Project setup
-```
-yarn install
-```
+ Site de uma escola de cursos online, utilizando Vue.js e Vue Router. Criado durante o curso Vue.js 2 Completo, da [Origamid](https://origamid.com). 
+ 
+---
+<div align="center">
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![Deploy Status Badge](https://img.shields.io/github/deployments/nataliafonseca/techno-cursos/Production?label=vercel&logo=vercel&style=for-the-badge)
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+</div>
